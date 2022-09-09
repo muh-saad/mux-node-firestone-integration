@@ -1,0 +1,28 @@
+{
+  "name": "mux-node-firebase-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Saad",
+  "license": "ISC",
+  "dependencies": {
+    "@mux/mux-node": "^4.0.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.3.2",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "firebase": "^9.6.5",
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.16.0",
+    "joi": "^17.6.0",
+    "lodash": "^4.17.21",
+    "morgan": "~1.7.0",
+    "stylus": "0.54.5"
+  }
+}
